@@ -14,7 +14,6 @@ int main()
 		text.str("");
 		text << "The speed of the car : " << num;
 		std::cout << text.str() << std::endl;
-		
 	} 
 	while (end);
 }
